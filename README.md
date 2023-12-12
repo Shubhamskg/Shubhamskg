@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shubhamskg" alt="Shubhamskg" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/Shubham190796" target="blank"><img src="https://img.shields.io/twitter/follow/avinesh_2003?logo=twitter&style=for-the-badge" alt="Shubham190796" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Shubham190796" target="blank"><img src="https://img.shields.io/twitter/follow/Shubham190796?logo=twitter&style=for-the-badge" alt="Shubham190796" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
