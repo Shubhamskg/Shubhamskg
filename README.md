@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shubhamskg&label=Profile%20views&color=0e75b6&style=flat" alt="Shubhamskg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shubhamskg" alt="Shubhamskg" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shubhamskg" alt="Shubhamskg" /></a> </p> 
 
 <p align="left"> <a href="https://twitter.com/Shubham190796" target="blank"><img src="https://img.shields.io/twitter/follow/Shubham190796?logo=twitter&style=for-the-badge" alt="Shubham190796" /></a> </p>
 
