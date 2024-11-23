@@ -1,4 +1,4 @@
-![Cover Image](https://drive.google.com/file/d/1Toy5cbMCJgpGHPqvHudgzKAch2WXKp2P/view?usp=sharing)
+![Cover Image](https://github.com/Shubhamskg/img/blob/main/1702301275577.jpg)
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
 <h3 align="center">A passionate Machine Learning and Full Stack developer from India</h3>
 
