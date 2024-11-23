@@ -1,4 +1,4 @@
-![Cover Image]([https://media.licdn.com/dms/image/D4D16AQEAZ2vIAXHwfQ/profile-displaybackgroundimage-shrink_350_1400/0/1702301275577?e=1707955200&v=beta&t=MN9B7l86s8TRF2JeYhGaGxUJKChMQerk-EscsS7lVa0](https://media.licdn.com/dms/image/v2/D4D16AQEAZ2vIAXHwfQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1702301275577?e=1737590400&v=beta&t=_wZYkr_3caVNf_vOfNLk3mLRNaizrZe4i2JAr0Vl__A))
+![Cover Image](https://drive.google.com/file/d/1Toy5cbMCJgpGHPqvHudgzKAch2WXKp2P/view)
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
 <h3 align="center">A passionate Machine Learning and Full Stack developer from India</h3>
 
