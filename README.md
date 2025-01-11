@@ -3,7 +3,7 @@
 ## 🚀 About Me
 Data Science professional with expertise in Machine Learning, Deep Learning, and Statistical Analysis. Currently working as a Data Science Trainee at Sigmoid, focusing on developing production-grade ML models and implementing scalable AI solutions. Passionate about leveraging cutting-edge technology to solve complex business problems and drive data-driven decision making.
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" height="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## 🎯 Quick Highlights
 - 🔭 Data Science Trainee at **Sigmoid**
@@ -39,7 +39,7 @@ Data Science professional with expertise in Machine Learning, Deep Learning, and
 ## 📈 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shubhamskg&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhamskg&theme=radical" alt="GitHub Streak" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhamskg&theme=radical" alt="GitHub Streak" /> -->
 </p>
 
 ## 🤝 Let's Connect!
