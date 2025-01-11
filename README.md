@@ -3,7 +3,7 @@
 ## 🚀 About Me
 Data Science professional with expertise in Machine Learning, Deep Learning, and Statistical Analysis. Currently working as a Data Science Trainee at Sigmoid, focusing on developing production-grade ML models and implementing scalable AI solutions. Passionate about leveraging cutting-edge technology to solve complex business problems and drive data-driven decision making.
 
-<img align="right" alt="Coding" width="400" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## 🎯 Quick Highlights
 - 🔭 Data Science Trainee at **Sigmoid**
