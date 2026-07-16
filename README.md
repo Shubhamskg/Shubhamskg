@@ -7,7 +7,7 @@ Data Scientist with expertise in Machine Learning, Deep Learning, and Statistica
 
 ## 🎯 Quick Highlights
 
-- 🔭 Data Science Trainee at **Sigmoid**
+- 🔭 Data Scientist at **Sigmoid**
 - 🎓 Pursuing MTech from **IIT(ISM) Dhanbad**
 - 💡 Specialized in **Machine Learning**, **Deep Learning**, **MERN Stack Development**
 - 🌱 Currently exploring **System Design**, **Generative AI**, and **LLM Applications**
